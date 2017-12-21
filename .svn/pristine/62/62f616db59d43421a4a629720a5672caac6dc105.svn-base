@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="denglu_language" Type="Plist" ID="64e7d421-8b90-434a-a742-15754860fefe" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/denglu/ui_denglu_bt_fwqtl.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_changepass.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_gonggao.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_hot.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_new.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_wait.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_tuijian.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_choose.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_enter.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_xieyi.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_fwqlb.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_title.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_xinfu1.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_queding.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_quxiao.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_zhuce.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fubentiaozhan_language" Type="Plist" ID="e88ba0b4-4bf7-45d6-b449-05d6206a12cd" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_enter_btn_buzhen.png" />
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_enter_btn_tiaozhan.png" />
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_enter_btn_saodang.png" />
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_enter_btn_saodangwancheng.png" />
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_huode.png" />
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_enter_btn_tingzhisaodang.png" />
+      <FilePathData Path="ui/fubentiaozhan/ui_fuben_enter_wenzi1.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

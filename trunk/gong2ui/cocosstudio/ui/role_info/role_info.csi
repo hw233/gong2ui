@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="role_info" Type="Plist" ID="dd39591b-5317-4168-afd6-a2e13ca66976" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/role_info/ui_juesexinxi_bi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_biaotidi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_btn_gantanhao.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_dengjidi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_di.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_di1.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_di3.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_huawen1.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_huawen2.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_jdt_1.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_jdt_1di.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_namedi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_touxiangdi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_zhuangshi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_zhuangshi1.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_zhuangshi2.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_di4.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

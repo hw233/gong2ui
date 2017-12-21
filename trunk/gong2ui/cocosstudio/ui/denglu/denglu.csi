@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="denglu" Type="Plist" ID="4569ce38-b1f8-446b-b171-29331dbc3979" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/denglu/ui_denglu_signb.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_fenge.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_btn_chooseditu.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_di1.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_zhuangshi1.png" />
+      <FilePathData Path="ui/denglu/ui_dengluxuanqu_zhuangshi2.png" />
+      <FilePathData Path="ui/denglu/ui_denglu_shurukuang.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

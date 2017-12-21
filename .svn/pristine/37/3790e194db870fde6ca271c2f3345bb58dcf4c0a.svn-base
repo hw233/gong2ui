@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fight_result" Type="Plist" ID="7000eb0c-c0c9-4ea6-b37f-2ec179e208e1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/fightresult/ui_jiesuan_di2.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_di3.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_fenge1.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_fenge2.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_gou.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_goudi1.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_goudi2.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shibai_di1.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_xin1.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_xin2.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shanzi1.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

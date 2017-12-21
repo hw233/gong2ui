@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhujiemian_language" Type="Plist" ID="36adfe6f-2ad3-417d-8145-67260048416f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_bag.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_bangpai.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_chat.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_fanrongdu.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_fubeng.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_gongdou.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_huodong.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_libao.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_more.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_renwu.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_shop.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_shouchong.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_wujiang.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_zhenrong.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_xinxiditu.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_ti.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

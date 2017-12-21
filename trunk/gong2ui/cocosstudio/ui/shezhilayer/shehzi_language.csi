@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="shehzi_language" Type="Plist" ID="d2517f2f-dfb4-400d-8b67-e3d123cc9648" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_btn_tuichu.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_guanbi.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_qidong.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_shezhi.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_wenzi1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_wenzi2.png" />
+    </ImageFiles>
+    <MaxSize Width="128" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

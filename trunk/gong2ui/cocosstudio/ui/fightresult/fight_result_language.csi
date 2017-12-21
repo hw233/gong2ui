@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fight_result_language" Type="Plist" ID="75a09ad7-eb37-4070-a709-ebdb49ef89e2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/fightresult/ui_jiesuan_dianji.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_diaoluo.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shengli.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shibai.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shibai_btn1.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shibai_btn2.png" />
+      <FilePathData Path="ui/fightresult/ui_jiesuan_shibai_wenzi.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

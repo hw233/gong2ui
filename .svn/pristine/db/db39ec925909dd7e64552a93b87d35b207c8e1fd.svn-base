@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="wujiang" Type="Plist" ID="818f68e0-1d94-48a8-94e8-c4ad9b70fab3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/wujiang/ui_wujiang_wuli.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_you.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_zuo.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_ditu.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_ditu1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_ditu2.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_jiahao.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,126 @@
+<Solution>
+  <PropertyGroup Name="gong2ui" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="fzwb.ttf" />
+          <TTF Name="fzzy.ttf" />
+          <TTF Name="fzzz.TTF" />
+        </Folder>
+        <Folder Name="images">
+          <Image Name="ui_com_closesmall.png" />
+          <Image Name="ui_com_neikuang.png" />
+          <Image Name="ui_com_tongyong_02.png" />
+        </Folder>
+        <Folder Name="ui">
+          <Folder Name="com">
+            <PlistInfo Name="com_plist.csi" Type="Plist" />
+            <Image Name="ui_com_bigtongyong03.png" />
+            <Image Name="ui_com_btn_selected1.png" />
+            <Image Name="ui_com_btn_unselected1.png" />
+            <Image Name="ui_com_close1.png" />
+            <Image Name="ui_com_di1.png" />
+            <Image Name="ui_com_di2.png" />
+            <Image Name="ui_com_jiazai01.png" />
+            <Image Name="ui_com_jiazai02.png" />
+            <Image Name="ui_com_space.png" />
+            <Image Name="ui_com_tbgezid.png" />
+            <Image Name="ui_com_tishidi.png" />
+            <Image Name="ui_com_VIP.png" />
+          </Folder>
+          <Folder Name="createmainrolelayer">
+            <PlistInfo Name="createmainrole_language_plist.csi" Type="Plist" />
+            <PlistInfo Name="createmainrole_plist.csi" Type="Plist" />
+            <Image Name="ui_denglu_btn_di1.png" />
+            <Image Name="ui_denglu_btn_ditu.jpg" />
+            <Image Name="ui_denglu_btn_ditu2.png" />
+            <Image Name="ui_denglu_btn_enter.png" />
+            <Image Name="ui_denglu_btn_nan1.png" />
+            <Image Name="ui_denglu_btn_nan2.png" />
+            <Image Name="ui_denglu_btn_nv1.png" />
+            <Image Name="ui_denglu_btn_nv2.png" />
+            <Image Name="ui_denglu_btn_touzi1.png" />
+            <Image Name="ui_denglu_fagong.png" />
+            <Image Name="ui_denglu_nan.png" />
+            <Image Name="ui_denglu_nv.png" />
+            <Image Name="ui_denglu_wugong.png" />
+          </Folder>
+          <Folder Name="denglu">
+            <PlistInfo Name="denglu.csi" Type="Plist" />
+            <PlistInfo Name="denglu_language.csi" Type="Plist" />
+            <Image Name="ui_denglu_bt_fwqtl.png" />
+            <Image Name="ui_denglu_changepass.png" />
+            <Image Name="ui_denglu_fenge.png" />
+            <Image Name="ui_denglu_gonggao.png" />
+            <Image Name="ui_denglu_hot.png" />
+            <Image Name="ui_denglu_new.png" />
+            <Image Name="ui_denglu_shurukuang.png" />
+            <Image Name="ui_denglu_signb.png" />
+            <Image Name="ui_denglu_tuijian.png" />
+            <Image Name="ui_denglu_wait.png" />
+            <Image Name="ui_dengluxuanqu_btn_choose.png" />
+            <Image Name="ui_dengluxuanqu_btn_chooseditu.png" />
+            <Image Name="ui_dengluxuanqu_btn_enter.png" />
+            <Image Name="ui_dengluxuanqu_btn_queding.png" />
+            <Image Name="ui_dengluxuanqu_btn_quxiao.png" />
+            <Image Name="ui_dengluxuanqu_btn_xieyi.png" />
+            <Image Name="ui_dengluxuanqu_btn_zhuce.png" />
+            <Image Name="ui_dengluxuanqu_di1.png" />
+            <Image Name="ui_dengluxuanqu_fwqlb.png" />
+            <Image Name="ui_dengluxuanqu_kuang1.png" />
+            <Image Name="ui_dengluxuanqu_title.png" />
+            <Image Name="ui_dengluxuanqu_xinfu1.png" />
+            <Image Name="ui_dengluxuanqu_zhuangshi1.png" />
+            <Image Name="ui_dengluxuanqu_zhuangshi2.png" />
+          </Folder>
+          <Folder Name="zhujiemian">
+            <Image Name="ui_com_VIP.png" />
+            <Image Name="ui_zhujiemian_btn_add.png" />
+            <Image Name="ui_zhujiemian_btn_bag.png" />
+            <Image Name="ui_zhujiemian_btn_bangpai.png" />
+            <Image Name="ui_zhujiemian_btn_chat.png" />
+            <Image Name="ui_zhujiemian_btn_fanrongdu.png" />
+            <Image Name="ui_zhujiemian_btn_fanrongduditu.png" />
+            <Image Name="ui_zhujiemian_btn_fubeng.png" />
+            <Image Name="ui_zhujiemian_btn_gongdou.png" />
+            <Image Name="ui_zhujiemian_btn_huodong.png" />
+            <Image Name="ui_zhujiemian_btn_libao.png" />
+            <Image Name="ui_zhujiemian_btn_more.png" />
+            <Image Name="ui_zhujiemian_btn_renwu.png" />
+            <Image Name="ui_zhujiemian_btn_shop.png" />
+            <Image Name="ui_zhujiemian_btn_shouchong.png" />
+            <Image Name="ui_zhujiemian_btn_wujiang.png" />
+            <Image Name="ui_zhujiemian_btn_zhenrong.png" />
+            <Image Name="ui_zhujiemian_ditu1.png" />
+            <Image Name="ui_zhujiemian_ditu2.png" />
+            <Image Name="ui_zhujiemian_ditu3.png" />
+            <Image Name="ui_zhujiemian_exp.png" />
+            <Image Name="ui_zhujiemian_expdi.png" />
+            <Image Name="ui_zhujiemian_jdt1.png" />
+            <Image Name="ui_zhujiemian_leveditu.png" />
+            <Image Name="ui_zhujiemian_meihua.png" />
+            <Image Name="ui_zhujiemian_new.png" />
+            <Image Name="ui_zhujiemian_ti.png" />
+            <Image Name="ui_zhujiemian_touxiang1.png" />
+            <Image Name="ui_zhujiemian_xinxiditu.png" />
+            <Image Name="ui_zhujiemian_yinliang.png" />
+            <Image Name="ui_zhujiemian_yuanbao.png" />
+            <PlistInfo Name="zhujiemian_language.csi" Type="Plist" />
+            <PlistInfo Name="zhujiemian_plist.csi" Type="Plist" />
+          </Folder>
+        </Folder>
+        <Folder Name="views">
+          <Project Name="account_layer.csd" Type="Layer" />
+          <Project Name="changepwd_layer.csd" Type="Layer" />
+          <Project Name="create_account_layer.csd" Type="Layer" />
+          <Project Name="CreateMainRoleLayer.csd" Type="Layer" />
+          <Project Name="denglu_layer.csd" Type="Layer" />
+          <Project Name="main_layer.csd" Type="Layer" />
+          <Project Name="server_list_layer.csd" Type="Layer" />
+          <Project Name="TestLayer.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

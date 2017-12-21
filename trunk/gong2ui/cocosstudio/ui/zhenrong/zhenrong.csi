@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhenrong" Type="Plist" ID="d7d299a0-3dd0-4bb9-b448-613e32c4af27" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_btn_close.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_dengjidi.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_denglong.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_di.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_di1.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_di2.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_di3.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_di4.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_jiantou1.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_jiantou2.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_keshengji.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_renwudi1.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_renwudi2.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_taizi.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhuangbeikuang1.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhuangbeikuang2.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhuangshi1.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhuangshi2.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhuangshi3.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_xuanzhong.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhuangshi4.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

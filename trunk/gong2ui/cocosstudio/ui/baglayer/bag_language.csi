@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bag_language" Type="Plist" ID="61d5a889-ca00-46ef-a968-c70fba1d4359" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/baglayer/ui_bag_btn_all1.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_all2.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_cailiao1.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_cailiao2.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_suipian1.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_suipian2.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_xiaohaopin1.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_xiaohaopin2.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_beibao.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_max.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_btn_min.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_daojvshiyong.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_piliangchuse.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

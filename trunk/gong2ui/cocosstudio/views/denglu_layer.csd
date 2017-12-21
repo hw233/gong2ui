@@ -1,0 +1,195 @@
+<GameFile>
+  <PropertyGroup Name="denglu_layer" Type="Layer" ID="5a71acfd-0ae8-4e1a-8dfa-93b647fdd984" Version="3.10.0.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" Tag="17" ctype="GameLayerObjectData">
+        <Size X="1136.0000" Y="640.0000" />
+        <Children>
+          <AbstractNodeData Name="text_jiankang_01" ActionTag="-1633076312" Tag="114" IconVisible="False" VerticalEdge="BottomEdge" LeftMargin="178.5000" RightMargin="178.5000" TopMargin="579.5000" BottomMargin="43.5000" FontSize="14" LabelText="抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。" ShadowOffsetX="0.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="779.0000" Y="17.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="568.0000" Y="52.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.0812" />
+            <PreSize X="0.6857" Y="0.0266" />
+            <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="0" G="0" B="0" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="text_q" ActionTag="-1170998850" Tag="14" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="15.0000" RightMargin="885.0000" TopMargin="71.0000" BottomMargin="545.0000" FontSize="20" LabelText="官方QQ群：207864529" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="236.0000" Y="24.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="15.0000" Y="557.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0132" Y="0.8703" />
+            <PreSize X="0.2077" Y="0.0375" />
+            <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="text_version_1" ActionTag="1587857162" Tag="59" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="15.0000" RightMargin="945.0000" TopMargin="15.0000" BottomMargin="601.0000" FontSize="20" LabelText="版本：123456789" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="176.0000" Y="24.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="15.0000" Y="613.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0132" Y="0.9578" />
+            <PreSize X="0.1549" Y="0.0375" />
+            <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="text_version_2" ActionTag="-1325619574" Tag="60" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="15.0000" RightMargin="945.0000" TopMargin="43.0000" BottomMargin="573.0000" FontSize="20" LabelText="资源：123456789" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="176.0000" Y="24.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="15.0000" Y="585.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0132" Y="0.9141" />
+            <PreSize X="0.1549" Y="0.0375" />
+            <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_1" ActionTag="114140215" Tag="41" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="558.0000" RightMargin="558.0000" TopMargin="612.9760" BottomMargin="7.0240" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="20.0000" Y="20.0000" />
+            <Children>
+              <AbstractNodeData Name="btn_account" ActionTag="-821211117" CallBackType="Click" CallBackName="accountClick" Tag="18" IconVisible="False" LeftMargin="-199.0000" RightMargin="-199.0000" TopMargin="-276.5000" BottomMargin="251.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="15" Scale9Height="15" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+                <Size X="418.0000" Y="45.0000" />
+                <Children>
+                  <AbstractNodeData Name="txt_zhanghao" ActionTag="-444735566" Tag="19" IconVisible="False" LeftMargin="69.0000" RightMargin="295.0000" TopMargin="9.0000" BottomMargin="9.0000" FontSize="22" LabelText="账号：" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
+                    <Size X="54.0000" Y="27.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="96.0000" Y="22.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2297" Y="0.5000" />
+                    <PreSize X="0.1292" Y="0.6000" />
+                    <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="txt_account" ActionTag="1462332195" Tag="20" IconVisible="False" LeftMargin="146.0000" RightMargin="137.0000" TopMargin="9.0000" BottomMargin="9.0000" FontSize="22" LabelText="点击注册登录" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
+                    <Size X="135.0000" Y="27.0000" />
+                    <AnchorPoint ScaleY="0.5000" />
+                    <Position X="146.0000" Y="22.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="229" G="224" B="218" />
+                    <PrePosition X="0.3493" Y="0.5000" />
+                    <PreSize X="0.3230" Y="0.6000" />
+                    <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="10.0000" Y="274.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="13.7000" />
+                <PreSize X="20.9000" Y="2.2500" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="ui/denglu/ui_denglu_shurukuang.png" Plist="ui/denglu/denglu.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="ui/denglu/ui_denglu_shurukuang.png" Plist="ui/denglu/denglu.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="ui/denglu/ui_denglu_shurukuang.png" Plist="ui/denglu/denglu.plist" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_2" ActionTag="-1544807041" CallBackName="serverClick" Tag="226" IconVisible="False" LeftMargin="-260.5000" RightMargin="-260.5000" TopMargin="-239.0000" BottomMargin="127.0000" LeftEage="178" RightEage="178" TopEage="43" BottomEage="43" Scale9OriginX="178" Scale9OriginY="43" Scale9Width="185" Scale9Height="46" ctype="ImageViewObjectData">
+                <Size X="541.0000" Y="132.0000" />
+                <Children>
+                  <AbstractNodeData Name="txt_server_name" ActionTag="-192290005" Tag="54" IconVisible="False" LeftMargin="78.5000" RightMargin="365.5000" TopMargin="49.5000" BottomMargin="53.5000" FontSize="24" LabelText="服务器名" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="TextObjectData">
+                    <Size X="97.0000" Y="29.0000" />
+                    <AnchorPoint ScaleY="0.5000" />
+                    <Position X="78.5000" Y="68.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1451" Y="0.5152" />
+                    <PreSize X="0.1793" Y="0.2197" />
+                    <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="btn_dianjixuanfu" ActionTag="1694271120" CallBackType="Click" CallBackName="serverClick" Tag="227" IconVisible="False" LeftMargin="263.0000" RightMargin="118.0000" TopMargin="31.0000" BottomMargin="43.0000" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="130" Scale9Height="36" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                    <Size X="160.0000" Y="58.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="343.0000" Y="72.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.6340" Y="0.5455" />
+                    <PreSize X="0.2957" Y="0.4394" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_choose.png" Plist="ui/denglu/denglu_language.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_choose.png" Plist="ui/denglu/denglu_language.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_choose.png" Plist="ui/denglu/denglu_language.plist" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="10.0000" Y="193.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="9.6500" />
+                <PreSize X="27.0500" Y="6.6000" />
+                <FileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_chooseditu.png" Plist="ui/denglu/denglu.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="btn_enter_game" ActionTag="-2127706547" CallBackType="Click" CallBackName="enterClick" Tag="42" IconVisible="False" LeftMargin="-92.5000" RightMargin="-92.5000" TopMargin="-104.0000" BottomMargin="80.0000" TouchEnable="True" FontSize="30" Scale9Enable="True" LeftEage="32" RightEage="32" Scale9OriginX="32" Scale9Width="141" Scale9Height="44" OutlineSize="0" ShadowOffsetX="0.0000" ShadowOffsetY="0.0000" ctype="ButtonObjectData">
+                <Size X="205.0000" Y="44.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="10.0000" Y="102.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="5.1000" />
+                <PreSize X="10.2500" Y="2.2000" />
+                <TextColor A="255" R="255" G="255" B="255" />
+                <DisabledFileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_enter.png" Plist="ui/denglu/denglu_language.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_enter.png" Plist="ui/denglu/denglu_language.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="ui/denglu/ui_dengluxuanqu_btn_enter.png" Plist="ui/denglu/denglu_language.plist" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="568.0000" Y="17.0240" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.0266" />
+            <PreSize X="0.0176" Y="0.0313" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="text_q_0" ActionTag="-1282582219" Tag="196" IconVisible="False" VerticalEdge="BottomEdge" LeftMargin="218.5000" RightMargin="218.5000" TopMargin="597.0000" BottomMargin="26.0000" FontSize="14" LabelText="新广出审：[2017]2559号 出版物号：ISBN 978-7-7979-6020-5    文网游备字〔2017〕Ｍ-RPG 0453 号" ShadowOffsetX="0.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="699.0000" Y="17.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="568.0000" Y="34.5000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.0539" />
+            <PreSize X="0.6153" Y="0.0266" />
+            <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="0" G="0" B="0" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="text_q_0_0" ActionTag="730129885" Tag="33" IconVisible="False" VerticalEdge="BottomEdge" LeftMargin="326.5000" RightMargin="326.5000" TopMargin="614.5000" BottomMargin="8.5000" FontSize="14" LabelText="著作权人：苏州果动信息科技有限公司 出版单位：北京艺术与科学电子出版社" ShadowOffsetX="0.0000" ShadowOffsetY="-1.0000" ShadowEnabled="True" ctype="TextObjectData">
+            <Size X="483.0000" Y="17.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="568.0000" Y="17.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.0266" />
+            <PreSize X="0.4252" Y="0.0266" />
+            <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="0" G="0" B="0" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

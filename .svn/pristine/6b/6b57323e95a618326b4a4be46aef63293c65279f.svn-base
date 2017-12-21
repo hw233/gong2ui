@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhenfa" Type="Plist" ID="01129280-ed94-4536-b435-1093910666fb" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_btn_back.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di1_1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di1_2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di2_1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di2_2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di3_1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di3_2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di4_1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di4_2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di5_1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di5_2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di6_1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di6_2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_ditu1.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_ditu2.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di1_3.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di2_3.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di3_3.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di4_3.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di5_3.png" />
+      <FilePathData Path="ui/zhenfa/ui_zhenfa_di6_3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

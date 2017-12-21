@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="shezhi" Type="Plist" ID="e0c4d41b-2f18-4f65-b6e6-d59d2b0f0c79" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_btn_kaiguan1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_btn_kaiguan2.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_btndi.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_di1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_di2.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_di3.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_di4.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon1_1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon1_2.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon2_1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon2_2.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon3_1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon3_2.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon4_1.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_icon4_2.png" />
+      <FilePathData Path="ui/shezhilayer/ui_shezhi_zhuangshi1.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

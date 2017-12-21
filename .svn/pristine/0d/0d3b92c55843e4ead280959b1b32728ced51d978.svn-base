@@ -1,0 +1,504 @@
+<Solution>
+  <PropertyGroup Name="gong2ui" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="fzwb.ttf" />
+          <TTF Name="fzzy.ttf" />
+          <TTF Name="fzzz.TTF" />
+        </Folder>
+        <Folder Name="images">
+          <Image Name="ui_com_closesmall.png" />
+          <Image Name="ui_com_neikuang.png" />
+          <Image Name="ui_com_tongyong_02.png" />
+        </Folder>
+        <Folder Name="ui">
+          <Folder Name="baglayer">
+            <PlistInfo Name="bag_language.csi" Type="Plist" />
+            <PlistInfo Name="bag_layer.csi" Type="Plist" />
+            <Image Name="ui_bag_beibao.png" />
+            <Image Name="ui_bag_btn_all1.png" />
+            <Image Name="ui_bag_btn_all2.png" />
+            <Image Name="ui_bag_btn_cailiao1.png" />
+            <Image Name="ui_bag_btn_cailiao2.png" />
+            <Image Name="ui_bag_btn_jia.png" />
+            <Image Name="ui_bag_btn_jian.png" />
+            <Image Name="ui_bag_btn_max.png" />
+            <Image Name="ui_bag_btn_min.png" />
+            <Image Name="ui_bag_btn_suipian1.png" />
+            <Image Name="ui_bag_btn_suipian2.png" />
+            <Image Name="ui_bag_btn_xiaohaopin1.png" />
+            <Image Name="ui_bag_btn_xiaohaopin2.png" />
+            <Image Name="ui_bag_daojvshiyong.png" />
+            <Image Name="ui_bag_di1.png" />
+            <Image Name="ui_bag_di2.png" />
+            <Image Name="ui_bag_di3.png" />
+            <Image Name="ui_bag_di4.png" />
+            <Image Name="ui_bag_piliangchuse.png" />
+            <Image Name="ui_bag_tankuang.png" />
+            <Image Name="ui_bag_tuan1.png" />
+            <Image Name="ui_bag_tuan2.png" />
+          </Folder>
+          <Folder Name="com">
+            <PlistInfo Name="com_plist.csi" Type="Plist" />
+            <Image Name="ui_com_back.png" />
+            <Image Name="ui_com_bigtongyong03.png" />
+            <Image Name="ui_com_bt2.png" />
+            <Image Name="ui_com_bt3.png" />
+            <Image Name="ui_com_bt4.png" />
+            <Image Name="ui_com_btn_selected1.png" />
+            <Image Name="ui_com_btn_selected2.png" />
+            <Image Name="ui_com_btn_unselected1.png" />
+            <Image Name="ui_com_btn_unselected2.png" />
+            <Image Name="ui_com_btn1.png" />
+            <Image Name="ui_com_chengjiudian.png" />
+            <Image Name="ui_com_close1.png" />
+            <Image Name="ui_com_close2.png" />
+            <Image Name="ui_com_di1.png" />
+            <Image Name="ui_com_di2.png" />
+            <Image Name="ui_com_di3.png" />
+            <Image Name="ui_com_di4.png" />
+            <Image Name="ui_com_di5.png" />
+            <Image Name="ui_com_di6.png" />
+            <Image Name="ui_com_di7.png" />
+            <Image Name="ui_com_di8.png" />
+            <Image Name="ui_com_di9.png" />
+            <Image Name="ui_com_ditu.png" />
+            <Image Name="ui_com_exp.png" />
+            <Image Name="ui_com_gezi0.png" />
+            <Image Name="ui_com_gezi0_2.png" />
+            <Image Name="ui_com_gezi1.png" />
+            <Image Name="ui_com_gezi1_2.png" />
+            <Image Name="ui_com_gezi2.png" />
+            <Image Name="ui_com_gezi2_2.png" />
+            <Image Name="ui_com_gezi3.png" />
+            <Image Name="ui_com_gezi3_2.png" />
+            <Image Name="ui_com_gezi4.png" />
+            <Image Name="ui_com_gezi4_2.png" />
+            <Image Name="ui_com_gezi5.png" />
+            <Image Name="ui_com_gezi6.png" />
+            <Image Name="ui_com_gezi7.png" />
+            <Image Name="ui_com_gezi8.png" />
+            <Image Name="ui_com_gezi8_2.png" />
+            <Image Name="ui_com_huoyuedu.png" />
+            <Image Name="ui_com_icon.png" />
+            <Image Name="ui_com_jiazai01.png" />
+            <Image Name="ui_com_jiazai02.png" />
+            <Image Name="ui_com_kuang1.png" />
+            <Image Name="ui_com_kuang2.png" />
+            <Image Name="ui_com_line1.png" />
+            <Image Name="ui_com_line2.png" />
+            <Image Name="ui_com_space.png" />
+            <Image Name="ui_com_tbgezid.png" />
+            <Image Name="ui_com_tip.png" />
+            <Image Name="ui_com_tishidi.png" />
+            <Image Name="ui_com_tishidi2.png" />
+            <Image Name="ui_com_tishidi3.png" />
+            <Image Name="ui_com_tishidi4.png" />
+            <Image Name="ui_com_VIP.png" />
+            <Image Name="ui_com_wenhao.png" />
+            <Image Name="ui_com_xuanzhong.png" />
+            <Image Name="ui_com_yinliang.png" />
+            <Image Name="ui_com_yuanbao.png" />
+            <Image Name="ui_com_zhuangshi1.png" />
+            <Image Name="ui_com_zhuangshi2.png" />
+            <Image Name="ui_com_zhuangshi3.png" />
+            <Image Name="ui_com_zhuangshi4.png" />
+            <Image Name="ui_com_zhuangshi5.png" />
+          </Folder>
+          <Folder Name="createmainrolelayer">
+            <PlistInfo Name="createmainrole.csi" Type="Plist" />
+            <PlistInfo Name="createmainrole_language.csi" Type="Plist" />
+            <Image Name="ui_denglu_btn_di1.png" />
+            <Image Name="ui_denglu_btn_ditu.jpg" />
+            <Image Name="ui_denglu_btn_ditu2.png" />
+            <Image Name="ui_denglu_btn_enter.png" />
+            <Image Name="ui_denglu_btn_nan1.png" />
+            <Image Name="ui_denglu_btn_nan2.png" />
+            <Image Name="ui_denglu_btn_nv1.png" />
+            <Image Name="ui_denglu_btn_nv2.png" />
+            <Image Name="ui_denglu_btn_touzi1.png" />
+            <Image Name="ui_denglu_fagong.png" />
+            <Image Name="ui_denglu_wugong.png" />
+          </Folder>
+          <Folder Name="denglu">
+            <PlistInfo Name="denglu.csi" Type="Plist" />
+            <PlistInfo Name="denglu_language.csi" Type="Plist" />
+            <Image Name="ui_denglu_bt_fwqtl.png" />
+            <Image Name="ui_denglu_changepass.png" />
+            <Image Name="ui_denglu_fenge.png" />
+            <Image Name="ui_denglu_gonggao.png" />
+            <Image Name="ui_denglu_hot.png" />
+            <Image Name="ui_denglu_new.png" />
+            <Image Name="ui_denglu_shurukuang.png" />
+            <Image Name="ui_denglu_signb.png" />
+            <Image Name="ui_denglu_tuijian.png" />
+            <Image Name="ui_denglu_wait.png" />
+            <Image Name="ui_dengluxuanqu_btn_choose.png" />
+            <Image Name="ui_dengluxuanqu_btn_chooseditu.png" />
+            <Image Name="ui_dengluxuanqu_btn_enter.png" />
+            <Image Name="ui_dengluxuanqu_btn_queding.png" />
+            <Image Name="ui_dengluxuanqu_btn_quxiao.png" />
+            <Image Name="ui_dengluxuanqu_btn_xieyi.png" />
+            <Image Name="ui_dengluxuanqu_btn_zhuce.png" />
+            <Image Name="ui_dengluxuanqu_di1.png" />
+            <Image Name="ui_dengluxuanqu_fwqlb.png" />
+            <Image Name="ui_dengluxuanqu_kuang1.png" />
+            <Image Name="ui_dengluxuanqu_title.png" />
+            <Image Name="ui_dengluxuanqu_xinfu1.png" />
+            <Image Name="ui_dengluxuanqu_zhuangshi1.png" />
+            <Image Name="ui_dengluxuanqu_zhuangshi2.png" />
+          </Folder>
+          <Folder Name="fight">
+            <PlistInfo Name="fight.csi" Type="Plist" />
+            <Image Name="ui_zhandou_btn_jiasu.png" />
+            <Image Name="ui_zhandou_btn_jiasu2.png" />
+            <Image Name="ui_zhandou_btn_jiasu3.png" />
+            <Image Name="ui_zhandou_btn_tiaoguo.png" />
+            <Image Name="ui_zhandou_di1.png" />
+            <Image Name="ui_zhandou_jdt1.png" />
+            <Image Name="ui_zhandou_jdtdi.png" />
+            <Image Name="ui_zhandou_nuqi.png" />
+            <Image Name="ui_zhandou_yingzi.png" />
+          </Folder>
+          <Folder Name="fightresult">
+            <PlistInfo Name="fight_result.csi" Type="Plist" />
+            <PlistInfo Name="fight_result_language.csi" Type="Plist" />
+            <Image Name="ui_jiesuan_di2.png" />
+            <Image Name="ui_jiesuan_di3.png" />
+            <Image Name="ui_jiesuan_dianji.png" />
+            <Image Name="ui_jiesuan_diaoluo.png" />
+            <Image Name="ui_jiesuan_fenge1.png" />
+            <Image Name="ui_jiesuan_fenge2.png" />
+            <Image Name="ui_jiesuan_gou.png" />
+            <Image Name="ui_jiesuan_goudi1.png" />
+            <Image Name="ui_jiesuan_goudi2.png" />
+            <Image Name="ui_jiesuan_shanzi1.png" />
+            <Image Name="ui_jiesuan_shengli.png" />
+            <Image Name="ui_jiesuan_shibai.png" />
+            <Image Name="ui_jiesuan_shibai_btn1.png" />
+            <Image Name="ui_jiesuan_shibai_btn2.png" />
+            <Image Name="ui_jiesuan_shibai_di1.png" />
+            <Image Name="ui_jiesuan_shibai_wenzi.png" />
+            <Image Name="ui_jiesuan_xin1.png" />
+            <Image Name="ui_jiesuan_xin2.png" />
+          </Folder>
+          <Folder Name="fubenmainlayer">
+            <PlistInfo Name="fuben_main_language.csi" Type="Plist" />
+            <PlistInfo Name="fuben_main_layer.csi" Type="Plist" />
+            <Image Name="ui_fuben_baoxiangguang.png" />
+            <Image Name="ui_fuben_btn_baoxiang1_1.png" />
+            <Image Name="ui_fuben_btn_baoxiang1_2.png" />
+            <Image Name="ui_fuben_btn_baoxiang2_1.png" />
+            <Image Name="ui_fuben_btn_baoxiang2_2.png" />
+            <Image Name="ui_fuben_btn_baoxiang3_1.png" />
+            <Image Name="ui_fuben_btn_baoxiang3_2.png" />
+            <Image Name="ui_fuben_btn_kunnan1.png" />
+            <Image Name="ui_fuben_btn_kunnan2.png" />
+            <Image Name="ui_fuben_btn_putong1.png" />
+            <Image Name="ui_fuben_btn_putong2.png" />
+            <Image Name="ui_fuben_btn_zhangjie.png" />
+            <Image Name="ui_fuben_dian1.png" />
+            <Image Name="ui_fuben_dian2.png" />
+            <Image Name="ui_fuben_ditu2.png" />
+            <Image Name="ui_fuben_jdt1.png" />
+            <Image Name="ui_fuben_jdt2.png" />
+            <Image Name="ui_fuben_jiantou.png" />
+            <Image Name="ui_fuben_jvqing.png" />
+            <Image Name="ui_fuben_muban.png" />
+            <Image Name="ui_fuben_xing1.png" />
+            <Image Name="ui_fuben_xing2.png" />
+            <Image Name="ui_fuben_yingzi.png" />
+          </Folder>
+          <Folder Name="fubentiaozhan">
+            <PlistInfo Name="fubentiaozhan.csi" Type="Plist" />
+            <PlistInfo Name="fubentiaozhan_language.csi" Type="Plist" />
+            <Image Name="ui_fuben_enter_btn_buzhen.png" />
+            <Image Name="ui_fuben_enter_btn_saodang.png" />
+            <Image Name="ui_fuben_enter_btn_saodangwancheng.png" />
+            <Image Name="ui_fuben_enter_btn_tiaozhan.png" />
+            <Image Name="ui_fuben_enter_btn_tingzhisaodang.png" />
+            <Image Name="ui_fuben_enter_ditu1.png" />
+            <Image Name="ui_fuben_enter_ditu10.png" />
+            <Image Name="ui_fuben_enter_ditu2.png" />
+            <Image Name="ui_fuben_enter_ditu4.png" />
+            <Image Name="ui_fuben_enter_ditu5.png" />
+            <Image Name="ui_fuben_enter_ditu6.png" />
+            <Image Name="ui_fuben_enter_ditu7.png" />
+            <Image Name="ui_fuben_enter_ditu8.png" />
+            <Image Name="ui_fuben_enter_ditu9.png" />
+            <Image Name="ui_fuben_enter_wenzi1.png" />
+            <Image Name="ui_fuben_huode.png" />
+            <Image Name="ui_fuben_zhuangshi1.png" />
+          </Folder>
+          <Folder Name="huoqutujing">
+            <Image Name="ui_wujiang_huoqutujing.png" />
+          </Folder>
+          <Folder Name="role_info">
+            <PlistInfo Name="role_info.csi" Type="Plist" />
+            <PlistInfo Name="role_info_language.csi" Type="Plist" />
+            <Image Name="ui_juesexinxi_beijing1.jpg" />
+            <Image Name="ui_juesexinxi_bi.png" />
+            <Image Name="ui_juesexinxi_biaoti.png" />
+            <Image Name="ui_juesexinxi_biaotidi.png" />
+            <Image Name="ui_juesexinxi_btn_fuzhuang.png" />
+            <Image Name="ui_juesexinxi_btn_gai.png" />
+            <Image Name="ui_juesexinxi_btn_gantanhao.png" />
+            <Image Name="ui_juesexinxi_btn_huan.png" />
+            <Image Name="ui_juesexinxi_dengjidi.png" />
+            <Image Name="ui_juesexinxi_di.png" />
+            <Image Name="ui_juesexinxi_di1.png" />
+            <Image Name="ui_juesexinxi_di3.png" />
+            <Image Name="ui_juesexinxi_di4.png" />
+            <Image Name="ui_juesexinxi_guanzhi.png" />
+            <Image Name="ui_juesexinxi_huawen1.png" />
+            <Image Name="ui_juesexinxi_huawen2.png" />
+            <Image Name="ui_juesexinxi_jdt_1.png" />
+            <Image Name="ui_juesexinxi_jdt_1di.png" />
+            <Image Name="ui_juesexinxi_namedi.png" />
+            <Image Name="ui_juesexinxi_tishi.png" />
+            <Image Name="ui_juesexinxi_touxiangdi.png" />
+            <Image Name="ui_juesexinxi_zhuangshi.png" />
+            <Image Name="ui_juesexinxi_zhuangshi1.png" />
+            <Image Name="ui_juesexinxi_zhuangshi2.png" />
+            <Image Name="ui_num_zhanli.png" />
+          </Folder>
+          <Folder Name="shezhilayer">
+            <PlistInfo Name="shehzi_language.csi" Type="Plist" />
+            <PlistInfo Name="shezhi.csi" Type="Plist" />
+            <Image Name="ui_shezhi_btn_kaiguan1.png" />
+            <Image Name="ui_shezhi_btn_kaiguan2.png" />
+            <Image Name="ui_shezhi_btn_tuichu.png" />
+            <Image Name="ui_shezhi_btndi.png" />
+            <Image Name="ui_shezhi_di1.png" />
+            <Image Name="ui_shezhi_di2.png" />
+            <Image Name="ui_shezhi_di3.png" />
+            <Image Name="ui_shezhi_di4.png" />
+            <Image Name="ui_shezhi_guanbi.png" />
+            <Image Name="ui_shezhi_icon1_1.png" />
+            <Image Name="ui_shezhi_icon1_2.png" />
+            <Image Name="ui_shezhi_icon2_1.png" />
+            <Image Name="ui_shezhi_icon2_2.png" />
+            <Image Name="ui_shezhi_icon3_1.png" />
+            <Image Name="ui_shezhi_icon3_2.png" />
+            <Image Name="ui_shezhi_icon4_1.png" />
+            <Image Name="ui_shezhi_icon4_2.png" />
+            <Image Name="ui_shezhi_qidong.png" />
+            <Image Name="ui_shezhi_shezhi.png" />
+            <Image Name="ui_shezhi_wenzi1.png" />
+            <Image Name="ui_shezhi_wenzi2.png" />
+            <Image Name="ui_shezhi_zhuangshi1.png" />
+          </Folder>
+          <Folder Name="tasklayer">
+            <PlistInfo Name="task_language.csi" Type="Plist" />
+            <PlistInfo Name="task_plist.csi" Type="Plist" />
+            <Image Name="ui_renwu_baoxiangguan.png" />
+            <Image Name="ui_renwu_baoxiangkai.png" />
+            <Image Name="ui_renwu_biaoti.png" />
+            <Image Name="ui_renwu_btn_di1.png" />
+            <Image Name="ui_renwu_btn_di2.png" />
+            <Image Name="ui_renwu_btn_ditu1.png" />
+            <Image Name="ui_renwu_btn_ditu2.png" />
+            <Image Name="ui_renwu_btn_ditu3.png" />
+            <Image Name="ui_renwu_btn_ditu4.jpg" />
+            <Image Name="ui_renwu_btn_lingqu.png" />
+            <Image Name="ui_renwu_btn_qianwang.png" />
+            <Image Name="ui_renwu_btn_yilingqu.png" />
+            <Image Name="ui_renwu_icon1.png" />
+            <Image Name="ui_renwu_icon2.png" />
+            <Image Name="ui_renwu_icon3.png" />
+            <Image Name="ui_renwu_jdt1.png" />
+            <Image Name="ui_renwu_jdt2.png" />
+            <Image Name="ui_renwu_jdt3.png" />
+            <Image Name="ui_renwu_jdt4.png" />
+            <Image Name="ui_renwu_lihe1.png" />
+            <Image Name="ui_renwu_lihe2.png" />
+            <Image Name="ui_renwu_wenzi1.png" />
+            <Image Name="ui_renwu_wenzi2.png" />
+            <Image Name="ui_renwu_wenzi3.png" />
+            <Image Name="ui_renwu_yingying.png" />
+          </Folder>
+          <Folder Name="wujiang">
+            <Image Name="ui_wujiang_btn_jiban1.png" />
+            <Image Name="ui_wujiang_btn_jiban2.png" />
+            <Image Name="ui_wujiang_btn_jinjie1.png" />
+            <Image Name="ui_wujiang_btn_jinjie2.png" />
+            <Image Name="ui_wujiang_btn_shengji1.png" />
+            <Image Name="ui_wujiang_btn_shengji2.png" />
+            <Image Name="ui_wujiang_btn_wujiang1.png" />
+            <Image Name="ui_wujiang_btn_wujiang2.png" />
+            <Image Name="ui_wujiang_btn_xinxi1.png" />
+            <Image Name="ui_wujiang_btn_xinxi2.png" />
+            <Image Name="ui_wujiang_btn_you.png" />
+            <Image Name="ui_wujiang_btn_zuo.png" />
+            <Image Name="ui_wujiang_di.jpg" />
+            <Image Name="ui_wujiang_di1.jpg" />
+            <Image Name="ui_wujiang_ditu.png" />
+            <Image Name="ui_wujiang_ditu1.png" />
+            <Image Name="ui_wujiang_ditu2.png" />
+            <Image Name="ui_wujiang_huoqu_btn_jinjie.png" />
+            <Image Name="ui_wujiang_huoqu_btn_qianwang.png" />
+            <Image Name="ui_wujiang_huoqu_btn_shengji.png" />
+            <Image Name="ui_wujiang_huoqu_btn_yijianshengji.png" />
+            <Image Name="ui_wujiang_huoqu_icon1.png" />
+            <Image Name="ui_wujiang_huoqu_icon2.png" />
+            <Image Name="ui_wujiang_huoqu_icon3.png" />
+            <Image Name="ui_wujiang_jiahao.png" />
+            <Image Name="ui_wujiang_jiahao1.png" />
+            <Image Name="ui_wujiang_jiazi.png" />
+            <Image Name="ui_wujiang_jiesuotianfu.png" />
+            <Image Name="ui_wujiang_pugong.png" />
+            <Image Name="ui_wujiang_wenzi1.png" />
+            <Image Name="ui_wujiang_wenzi2.png" />
+            <Image Name="ui_wujiang_wenzi3.png" />
+            <Image Name="ui_wujiang_wenzi4.png" />
+            <Image Name="ui_wujiang_wenzi5.png" />
+            <Image Name="ui_wujiang_wuli.png" />
+            <Image Name="ui_wujiang_xinxi.png" />
+            <PlistInfo Name="wujiang.csi" Type="Plist" />
+            <PlistInfo Name="wujiang_language.csi" Type="Plist" />
+          </Folder>
+          <Folder Name="zhenfa">
+            <Image Name="ui_zhenfa_btn_back.png" />
+            <Image Name="ui_zhenfa_di1_1.png" />
+            <Image Name="ui_zhenfa_di1_2.png" />
+            <Image Name="ui_zhenfa_di1_3.png" />
+            <Image Name="ui_zhenfa_di2_1.png" />
+            <Image Name="ui_zhenfa_di2_2.png" />
+            <Image Name="ui_zhenfa_di2_3.png" />
+            <Image Name="ui_zhenfa_di3_1.png" />
+            <Image Name="ui_zhenfa_di3_2.png" />
+            <Image Name="ui_zhenfa_di3_3.png" />
+            <Image Name="ui_zhenfa_di4_1.png" />
+            <Image Name="ui_zhenfa_di4_2.png" />
+            <Image Name="ui_zhenfa_di4_3.png" />
+            <Image Name="ui_zhenfa_di5_1.png" />
+            <Image Name="ui_zhenfa_di5_2.png" />
+            <Image Name="ui_zhenfa_di5_3.png" />
+            <Image Name="ui_zhenfa_di6_1.png" />
+            <Image Name="ui_zhenfa_di6_2.png" />
+            <Image Name="ui_zhenfa_di6_3.png" />
+            <Image Name="ui_zhenfa_ditu1.png" />
+            <Image Name="ui_zhenfa_ditu2.png" />
+            <PlistInfo Name="zhenfa.csi" Type="Plist" />
+          </Folder>
+          <Folder Name="zhenrong">
+            <Image Name="ui_zhenrong_btn_close.png" />
+            <Image Name="ui_zhenrong_btn_genghuan.png" />
+            <Image Name="ui_zhenrong_btn_jiacheng.png" />
+            <Image Name="ui_zhenrong_btn_qianghua.png" />
+            <Image Name="ui_zhenrong_btn_zhenfa.png" />
+            <Image Name="ui_zhenrong_dengjidi.png" />
+            <Image Name="ui_zhenrong_denglong.png" />
+            <Image Name="ui_zhenrong_di.png" />
+            <Image Name="ui_zhenrong_di1.png" />
+            <Image Name="ui_zhenrong_di2.png" />
+            <Image Name="ui_zhenrong_di3.png" />
+            <Image Name="ui_zhenrong_di4.png" />
+            <Image Name="ui_zhenrong_jiantou1.png" />
+            <Image Name="ui_zhenrong_jiantou2.png" />
+            <Image Name="ui_zhenrong_jiban.png" />
+            <Image Name="ui_zhenrong_jineng.png" />
+            <Image Name="ui_zhenrong_keshengji.png" />
+            <Image Name="ui_zhenrong_renwudi1.png" />
+            <Image Name="ui_zhenrong_renwudi2.png" />
+            <Image Name="ui_zhenrong_shuxing.png" />
+            <Image Name="ui_zhenrong_taizi.png" />
+            <Image Name="ui_zhenrong_xiangxishuxing.png" />
+            <Image Name="ui_zhenrong_xuanzhong.png" />
+            <Image Name="ui_zhenrong_zhenrong.png" />
+            <Image Name="ui_zhenrong_zhu.png" />
+            <Image Name="ui_zhenrong_zhuangbeikuang1.png" />
+            <Image Name="ui_zhenrong_zhuangbeikuang2.png" />
+            <Image Name="ui_zhenrong_zhuangshi1.png" />
+            <Image Name="ui_zhenrong_zhuangshi2.png" />
+            <Image Name="ui_zhenrong_zhuangshi3.png" />
+            <Image Name="ui_zhenrong_zhuangshi4.png" />
+            <PlistInfo Name="zhengrong_language.csi" Type="Plist" />
+            <PlistInfo Name="zhenrong.csi" Type="Plist" />
+          </Folder>
+          <Folder Name="zhujiemian">
+            <Image Name="ui_zhujiemian_btn_add.png" />
+            <Image Name="ui_zhujiemian_btn_bag.png" />
+            <Image Name="ui_zhujiemian_btn_bangpai.png" />
+            <Image Name="ui_zhujiemian_btn_chat.png" />
+            <Image Name="ui_zhujiemian_btn_fanrongdu.png" />
+            <Image Name="ui_zhujiemian_btn_fanrongduditu.png" />
+            <Image Name="ui_zhujiemian_btn_fubeng.png" />
+            <Image Name="ui_zhujiemian_btn_gongdou.png" />
+            <Image Name="ui_zhujiemian_btn_huodong.png" />
+            <Image Name="ui_zhujiemian_btn_libao.png" />
+            <Image Name="ui_zhujiemian_btn_more.png" />
+            <Image Name="ui_zhujiemian_btn_renwu.png" />
+            <Image Name="ui_zhujiemian_btn_shop.png" />
+            <Image Name="ui_zhujiemian_btn_shouchong.png" />
+            <Image Name="ui_zhujiemian_btn_wujiang.png" />
+            <Image Name="ui_zhujiemian_btn_zhenrong.png" />
+            <Image Name="ui_zhujiemian_ditu1.png" />
+            <Image Name="ui_zhujiemian_ditu2.png" />
+            <Image Name="ui_zhujiemian_ditu3.png" />
+            <Image Name="ui_zhujiemian_exp.png" />
+            <Image Name="ui_zhujiemian_expdi.png" />
+            <Image Name="ui_zhujiemian_jdt1.png" />
+            <Image Name="ui_zhujiemian_leveditu.png" />
+            <Image Name="ui_zhujiemian_meihua.png" />
+            <Image Name="ui_zhujiemian_new.png" />
+            <Image Name="ui_zhujiemian_ti.png" />
+            <Image Name="ui_zhujiemian_touxiang0.png" />
+            <Image Name="ui_zhujiemian_touxiang1.png" />
+            <Image Name="ui_zhujiemian_xinxiditu.png" />
+            <Image Name="ui_zhujiemian_yinliang.png" />
+            <Image Name="ui_zhujiemian_yuanbao.png" />
+            <PlistInfo Name="zhujiemian_language.csi" Type="Plist" />
+            <PlistInfo Name="zhujiemian_plist.csi" Type="Plist" />
+          </Folder>
+        </Folder>
+        <Folder Name="views">
+          <Project Name="account_layer.csd" Type="Layer" />
+          <Project Name="bag_item.csd" Type="Node" />
+          <Project Name="bag_layer.csd" Type="Layer" />
+          <Project Name="base_top_layer.csd" Type="Layer" />
+          <Project Name="change_name_layer.csd" Type="Layer" />
+          <Project Name="changepwd_layer.csd" Type="Layer" />
+          <Project Name="create_account_layer.csd" Type="Layer" />
+          <Project Name="CreateMainRoleLayer.csd" Type="Layer" />
+          <Project Name="denglu_layer.csd" Type="Layer" />
+          <Project Name="equip_node.csd" Type="Node" />
+          <Project Name="fight_result_layer.csd" Type="Layer" />
+          <Project Name="fuben_baoxiang.csd" Type="Node" />
+          <Project Name="fuben_debug.csd" Type="Node" />
+          <Project Name="fuben_dikuang.csd" Type="Node" />
+          <Project Name="fuben_main_layer.csd" Type="Layer" />
+          <Project Name="fuben_saodang.csd" Type="Layer" />
+          <Project Name="fuben_saodang_reward.csd" Type="Node" />
+          <Project Name="fubentiaozhan_layer.csd" Type="Layer" />
+          <Project Name="gm_item.csd" Type="Node" />
+          <Project Name="gm_layer.csd" Type="Layer" />
+          <Project Name="huoqu_tujing_layer.csd" Type="Layer" />
+          <Project Name="huoqu_tujing_node.csd" Type="Node" />
+          <Project Name="main_layer.csd" Type="Layer" />
+          <Project Name="main_role_info_layer.csd" Type="Layer" />
+          <Project Name="prop_info_item.csd" Type="Node" />
+          <Project Name="quick_use_layer.csd" Type="Layer" />
+          <Project Name="server_list_layer.csd" Type="Layer" />
+          <Project Name="shezhi_layer.csd" Type="Layer" />
+          <Project Name="shezhi_xuanxiang.csd" Type="Node" />
+          <Project Name="task_main_layer.csd" Type="Layer" />
+          <Project Name="task_main_left_btn_node.csd" Type="Node" />
+          <Project Name="task_main_mid_list_node.csd" Type="Node" />
+          <Project Name="TestLayer.csd" Type="Layer" />
+          <Project Name="WJ_shangzhen.csd" Type="Layer" />
+          <Project Name="WJ_shangzhen_item.csd" Type="Node" />
+          <Project Name="wujiang_layer.csd" Type="Layer" />
+          <Project Name="wujiang_lv_node.csd" Type="Node" />
+          <Project Name="zhenfa_layer.csd" Type="Layer" />
+          <Project Name="zhengrong_prop_info.csd" Type="Layer" />
+          <Project Name="zhengrong_skill.csd" Type="Node" />
+          <Project Name="zhengrong_WJ_image.csd" Type="Node" />
+          <Project Name="zhenrong_layer.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

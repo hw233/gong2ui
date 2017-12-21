@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="role_info_language" Type="Plist" ID="02ddb2e4-ff7b-453a-9e16-cbd61f89a266" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/role_info/ui_juesexinxi_biaoti.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_btn_gai.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_tishi.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_guanzhi.png" />
+      <FilePathData Path="ui/role_info/ui_num_zhanli.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_btn_fuzhuang.png" />
+      <FilePathData Path="ui/role_info/ui_juesexinxi_btn_huan.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

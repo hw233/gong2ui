@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fuben_main_layer" Type="Plist" ID="deae0143-a8ff-4711-b530-f2f1cef1c23c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_baoxiangguang.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang1_1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang1_2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang2_1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang2_2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang3_1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang3_2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_ditu2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_jdt1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_jdt2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_jiantou.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_xing1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_xing2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_dian1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_dian2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_muban.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_yingzi.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

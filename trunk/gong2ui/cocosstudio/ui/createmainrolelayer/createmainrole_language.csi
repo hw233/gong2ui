@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="createmainrole_language" Type="Plist" ID="658409b9-552d-4b16-93f8-eb995b190832" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_fagong.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_wugong.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_btn_enter.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_btn_nan1.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_btn_nan2.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_btn_nv1.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_btn_nv2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,108 @@
+<GameFile>
+  <PropertyGroup Name="fuben_dikuang" Type="Node" ID="e53e9bc2-79e0-44f7-9257-75f177653903" Version="3.10.0.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Node" Tag="358" ctype="GameNodeObjectData">
+        <Size X="0.0000" Y="0.0000" />
+        <Children>
+          <AbstractNodeData Name="Image_bg" ActionTag="-2118780043" Tag="87" IconVisible="False" LeftMargin="-5.0000" RightMargin="-5.0000" TopMargin="-5.0000" BottomMargin="-5.0000" LeftEage="3" RightEage="3" TopEage="3" BottomEage="3" Scale9OriginX="3" Scale9OriginY="3" Scale9Width="4" Scale9Height="4" ctype="ImageViewObjectData">
+            <Size X="10.0000" Y="10.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_guangyun" ActionTag="693748328" Tag="363" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-31.0000" RightMargin="-31.0000" TopMargin="9.5000" BottomMargin="-30.5000" LeftEage="23" RightEage="23" TopEage="10" BottomEage="10" Scale9OriginX="23" Scale9OriginY="10" Scale9Width="26" Scale9Height="11" ctype="ImageViewObjectData">
+                <Size X="72.0000" Y="31.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="5.0000" Y="-15.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="-1.5000" />
+                <PreSize X="7.2000" Y="3.1000" />
+                <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_baoxiangguang.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_1" ActionTag="49753422" Tag="359" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-22.0000" RightMargin="-22.0000" TopMargin="-14.0000" BottomMargin="-14.0000" LeftEage="17" RightEage="17" TopEage="12" BottomEage="12" Scale9OriginX="17" Scale9OriginY="12" Scale9Width="20" Scale9Height="14" ctype="ImageViewObjectData">
+                <Size X="54.0000" Y="38.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="5.0000" Y="5.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="5.4000" Y="3.8000" />
+                <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_guanqia1_1.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_icon" ActionTag="989927029" CallBackType="Touch" CallBackName="icon_click" Tag="88" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-25.0000" RightMargin="-25.0000" TopMargin="-25.0000" BottomMargin="-25.0000" TouchEnable="True" LeftEage="3" RightEage="3" TopEage="3" BottomEage="3" Scale9OriginX="3" Scale9OriginY="3" Scale9Width="4" Scale9Height="4" ctype="ImageViewObjectData">
+                <Size X="60.0000" Y="60.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="5.0000" Y="5.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="6.0000" Y="6.0000" />
+                <FileData Type="MarkedSubImage" Path="ui/com/ui_com_space.png" Plist="ui/com/com_plist.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Text_1" ActionTag="-421254964" VisibleForFrame="False" Tag="151" IconVisible="False" LeftMargin="-44.0000" RightMargin="-38.0000" TopMargin="-31.5000" BottomMargin="18.5000" FontSize="20" LabelText="Text Label" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="92.0000" Y="23.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="2.0000" Y="30.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2000" Y="3.0000" />
+                <PreSize X="9.2000" Y="2.3000" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_allstars" ActionTag="-1823501258" Tag="119" IconVisible="False" LeftMargin="-9.0000" RightMargin="-11.0000" TopMargin="2.0000" BottomMargin="-22.0000" LeftEage="3" RightEage="3" TopEage="3" BottomEage="3" Scale9OriginX="3" Scale9OriginY="3" Scale9Width="4" Scale9Height="4" ctype="ImageViewObjectData">
+                <Size X="30.0000" Y="30.0000" />
+                <Children>
+                  <AbstractNodeData Name="star_1" ActionTag="334141186" Tag="360" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-30.3010" RightMargin="34.3010" TopMargin="19.6590" BottomMargin="-16.6590" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="10" Scale9Height="11" ctype="ImageViewObjectData">
+                    <Size X="26.0000" Y="27.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="-17.3010" Y="-3.1590" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="-0.5767" Y="-0.1053" />
+                    <PreSize X="0.8667" Y="0.9000" />
+                    <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_xing1.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="star_2" ActionTag="-1740765374" Tag="361" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="2.0000" RightMargin="2.0000" TopMargin="26.7632" BottomMargin="-23.7632" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="10" Scale9Height="11" ctype="ImageViewObjectData">
+                    <Size X="26.0000" Y="27.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="15.0000" Y="-10.2632" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="-0.3421" />
+                    <PreSize X="0.8667" Y="0.9000" />
+                    <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_xing1.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="star_3" ActionTag="-701115410" Tag="362" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="33.7880" RightMargin="-29.7880" TopMargin="19.6579" BottomMargin="-16.6579" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="10" Scale9Height="11" ctype="ImageViewObjectData">
+                    <Size X="26.0000" Y="27.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="46.7880" Y="-3.1579" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.5596" Y="-0.1053" />
+                    <PreSize X="0.8667" Y="0.9000" />
+                    <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_xing1.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="6.0000" Y="-7.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6000" Y="-0.7000" />
+                <PreSize X="3.0000" Y="3.0000" />
+                <FileData Type="MarkedSubImage" Path="ui/com/ui_com_space.png" Plist="ui/com/com_plist.plist" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="MarkedSubImage" Path="ui/com/ui_com_space.png" Plist="ui/com/com_plist.plist" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

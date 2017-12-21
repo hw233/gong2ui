@@ -1,0 +1,160 @@
+<GameFile>
+  <PropertyGroup Name="CreateMainRoleLayer" Type="Layer" ID="5a3ecd77-c45b-464a-87ad-aed6f2b56467" Version="3.10.0.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" Tag="7" ctype="GameLayerObjectData">
+        <Size X="1136.0000" Y="640.0000" />
+        <Children>
+          <AbstractNodeData Name="Panel_bg" ActionTag="-422621414" Tag="11" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" LeftEage="3" RightEage="3" TopEage="3" BottomEage="3" Scale9OriginX="3" Scale9OriginY="3" Scale9Width="4" Scale9Height="4" ctype="PanelObjectData">
+            <Size X="1136.0000" Y="640.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_simpleman" ActionTag="1070787392" CallBackType="Touch" CallBackName="choose_sex" Tag="9" IconVisible="False" LeftMargin="-1.5000" RightMargin="734.5000" TopMargin="-0.5000" BottomMargin="411.5000" TouchEnable="True" LeftEage="132" RightEage="132" TopEage="75" BottomEage="75" Scale9OriginX="132" Scale9OriginY="75" Scale9Width="139" Scale9Height="79" ctype="ImageViewObjectData">
+                <Size X="403.0000" Y="229.0000" />
+                <AnchorPoint ScaleY="0.5000" />
+                <Position X="-1.5000" Y="526.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.0013" Y="0.8219" />
+                <PreSize X="0.3548" Y="0.3578" />
+                <FileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_nan1.png" Plist="ui/createmainrolelayer/createmainrole_language.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_simplewoman" ActionTag="100812496" CallBackType="Touch" CallBackName="choose_sex" Tag="10" IconVisible="False" LeftMargin="-1.5000" RightMargin="734.5000" TopMargin="190.5000" BottomMargin="212.5000" TouchEnable="True" LeftEage="132" RightEage="132" TopEage="78" BottomEage="78" Scale9OriginX="132" Scale9OriginY="78" Scale9Width="139" Scale9Height="81" ctype="ImageViewObjectData">
+                <Size X="403.0000" Y="237.0000" />
+                <AnchorPoint ScaleY="0.5000" />
+                <Position X="-1.5000" Y="331.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.0013" Y="0.5172" />
+                <PreSize X="0.3548" Y="0.3703" />
+                <FileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_nv1.png" Plist="ui/createmainrolelayer/createmainrole_language.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Node_role" ActionTag="-1694868781" Tag="12" IconVisible="True" LeftMargin="559.0000" RightMargin="577.0000" TopMargin="596.0000" BottomMargin="44.0000" ctype="SingleNodeObjectData">
+                <Size X="0.0000" Y="0.0000" />
+                <Children>
+                  <AbstractNodeData Name="Image_role" ActionTag="-237341921" Tag="13" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-265.0000" RightMargin="-265.0000" TopMargin="-582.0000" LeftEage="3" RightEage="3" TopEage="3" BottomEage="3" Scale9OriginX="3" Scale9OriginY="3" Scale9Width="4" Scale9Height="4" ctype="ImageViewObjectData">
+                    <Size X="530.0000" Y="582.0000" />
+                    <AnchorPoint ScaleX="0.5000" />
+                    <Position />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <FileData Type="MarkedSubImage" Path="ui/com/ui_com_space.png" Plist="ui/com/com_plist.plist" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint />
+                <Position X="559.0000" Y="44.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4921" Y="0.0688" />
+                <PreSize X="0.0000" Y="0.0000" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_1" ActionTag="-782321886" Tag="229" IconVisible="False" LeftMargin="448.0000" RightMargin="452.0000" TopMargin="539.5000" BottomMargin="59.5000" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="10" BottomEage="10" Scale9OriginX="10" Scale9OriginY="10" Scale9Width="12" Scale9Height="12" ctype="ImageViewObjectData">
+                <Size X="236.0000" Y="41.0000" />
+                <Children>
+                  <AbstractNodeData Name="Button_enter" ActionTag="487655943" CallBackType="Click" CallBackName="btn_ok" Tag="231" IconVisible="False" LeftMargin="226.5000" RightMargin="-205.5000" TopMargin="-21.5000" BottomMargin="-22.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="185" Scale9Height="63" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                    <Size X="215.0000" Y="85.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="334.0000" Y="20.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.4153" Y="0.4878" />
+                    <PreSize X="0.9110" Y="2.0732" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_enter.png" Plist="ui/createmainrolelayer/createmainrole_language.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_enter.png" Plist="ui/createmainrolelayer/createmainrole_language.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_enter.png" Plist="ui/createmainrolelayer/createmainrole_language.plist" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Button_touzi" ActionTag="-198625653" CallBackType="Click" CallBackName="btn_touzi" Tag="126" IconVisible="False" LeftMargin="-39.0000" RightMargin="217.0000" TopMargin="-10.0000" BottomMargin="-7.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="28" Scale9Height="36" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                    <Size X="58.0000" Y="58.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="-10.0000" Y="22.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="-0.0424" Y="0.5366" />
+                    <PreSize X="0.2458" Y="1.4146" />
+                    <TextColor A="255" R="65" G="65" B="70" />
+                    <DisabledFileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_touzi1.png" Plist="ui/createmainrolelayer/createmainrole.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_touzi1.png" Plist="ui/createmainrolelayer/createmainrole.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_touzi1.png" Plist="ui/createmainrolelayer/createmainrole.plist" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="playername" ActionTag="657843564" Tag="53" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="33.0000" RightMargin="33.0000" TopMargin="6.8200" BottomMargin="5.1800" FontSize="24" LabelText="玩家名字七个字" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="170.0000" Y="29.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="118.0000" Y="19.6800" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="208" G="214" B="218" />
+                    <PrePosition X="0.5000" Y="0.4800" />
+                    <PreSize X="0.7203" Y="0.7073" />
+                    <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="566.0000" Y="80.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.4982" Y="0.1250" />
+                <PreSize X="0.2077" Y="0.0641" />
+                <FileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_di1.png" Plist="ui/createmainrolelayer/createmainrole.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_dec" ActionTag="-1917651674" Tag="232" IconVisible="False" LeftMargin="901.5000" RightMargin="131.5000" TopMargin="47.5000" BottomMargin="235.5000" LeftEage="33" RightEage="33" TopEage="117" BottomEage="117" Scale9OriginX="33" Scale9OriginY="117" Scale9Width="37" Scale9Height="123" ctype="ImageViewObjectData">
+                <Size X="103.0000" Y="357.0000" />
+                <Children>
+                  <AbstractNodeData Name="Image_4" ActionTag="-683429555" Tag="233" IconVisible="False" LeftMargin="119.5000" RightMargin="-65.5000" TopMargin="7.0000" BottomMargin="126.0000" LeftEage="16" RightEage="16" TopEage="73" BottomEage="73" Scale9OriginX="16" Scale9OriginY="73" Scale9Width="17" Scale9Height="78" ctype="ImageViewObjectData">
+                    <Size X="49.0000" Y="224.0000" />
+                    <Children>
+                      <AbstractNodeData Name="Text_1" ActionTag="304533811" Tag="234" IconVisible="False" LeftMargin="5.0000" RightMargin="8.0000" TopMargin="37.0000" BottomMargin="-13.0000" IsCustomSize="True" FontSize="33" LabelText="御剑士" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="36.0000" Y="200.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+                        <Position X="23.0000" Y="187.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="84" G="166" B="195" />
+                        <PrePosition X="0.4694" Y="0.8348" />
+                        <PreSize X="0.7347" Y="0.8929" />
+                        <FontResource Type="Normal" Path="fonts/fzwb.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="144.0000" Y="238.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.3981" Y="0.6667" />
+                    <PreSize X="0.4757" Y="0.6275" />
+                    <FileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_btn_ditu2.png" Plist="ui/createmainrolelayer/createmainrole.plist" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="953.0000" Y="414.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8389" Y="0.6469" />
+                <PreSize X="0.0907" Y="0.5578" />
+                <FileData Type="MarkedSubImage" Path="ui/createmainrolelayer/ui_denglu_wugong.png" Plist="ui/createmainrolelayer/createmainrole_language.plist" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="568.0000" Y="320.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.5000" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="MarkedSubImage" Path="ui/com/ui_com_space.png" Plist="ui/com/com_plist.plist" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

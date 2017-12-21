@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="createmainrole_language_plist" Type="Plist" ID="658409b9-552d-4b16-93f8-eb995b190832" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_fagong.png" />
+      <FilePathData Path="ui/createmainrolelayer/ui_denglu_wugong.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,35 @@
+<GameFile>
+  <PropertyGroup Name="fuben_role_kuang" Type="Node" ID="43e197c6-017a-445c-a04b-32ef8d879a85" Version="3.10.0.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Node" Tag="335" ctype="GameNodeObjectData">
+        <Size X="0.0000" Y="0.0000" />
+        <Children>
+          <AbstractNodeData Name="Image_bg" ActionTag="267221638" Tag="336" IconVisible="False" LeftMargin="-58.0000" RightMargin="-58.0000" TopMargin="-97.0000" LeftEage="38" RightEage="38" TopEage="32" BottomEage="32" Scale9OriginX="38" Scale9OriginY="32" Scale9Width="40" Scale9Height="33" ctype="ImageViewObjectData">
+            <Size X="116.0000" Y="97.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_role" ActionTag="-124042989" Tag="337" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="20.0000" RightMargin="20.0000" TopMargin="15.5000" BottomMargin="15.5000" LeftEage="25" RightEage="25" TopEage="21" BottomEage="21" Scale9OriginX="25" Scale9OriginY="21" Scale9Width="26" Scale9Height="24" ctype="ImageViewObjectData">
+                <Size X="76.0000" Y="66.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="58.0000" Y="48.5000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="0.6552" Y="0.6804" />
+                <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_btn_baoxiang1_1.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="MarkedSubImage" Path="ui/fubenmainlayer/ui_fuben_touxiangkuang.png" Plist="ui/fubenmainlayer/fuben_main_layer.plist" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="task_plist" Type="Plist" ID="0c887966-a220-4427-9e55-b37af419b3c1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/tasklayer/ui_renwu_baoxiangguan.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_baoxiangkai.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_di1.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_di2.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_ditu1.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_ditu2.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_ditu3.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_icon1.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_icon2.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_icon3.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_jdt1.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_jdt2.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_lihe1.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_lihe2.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_yingying.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_jdt3.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_jdt4.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

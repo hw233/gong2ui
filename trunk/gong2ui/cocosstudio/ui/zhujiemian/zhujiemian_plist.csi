@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhujiemian_plist" Type="Plist" ID="965d017e-02a9-437a-a196-1558748e3e82" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_btn_fanrongduditu.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_ditu1.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_ditu2.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_ditu3.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_jdt1.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_leveditu.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_meihua.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_new.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_touxiang1.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_touxiang0.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_yinliang.png" />
+      <FilePathData Path="ui/zhujiemian/ui_zhujiemian_yuanbao.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

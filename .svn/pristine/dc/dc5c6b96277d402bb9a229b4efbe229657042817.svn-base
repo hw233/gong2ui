@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhengrong_language" Type="Plist" ID="b804bf5f-30c8-4135-8732-7bc3acf654a7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_btn_genghuan.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_btn_qianghua.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_btn_zhenfa.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_jiban.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_jineng.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_shuxing.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_xiangxishuxing.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhenrong.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_zhu.png" />
+      <FilePathData Path="ui/zhenrong/ui_zhenrong_btn_jiacheng.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

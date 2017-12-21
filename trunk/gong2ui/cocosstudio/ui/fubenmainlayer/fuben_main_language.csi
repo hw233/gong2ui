@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fuben_main_language" Type="Plist" ID="6e231c1a-84d9-40d3-9ac4-2c55ae579ae5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_kunnan1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_kunnan2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_putong1.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_putong2.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_btn_zhangjie.png" />
+      <FilePathData Path="ui/fubenmainlayer/ui_fuben_jvqing.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

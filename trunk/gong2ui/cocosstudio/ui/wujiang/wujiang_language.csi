@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="wujiang_language" Type="Plist" ID="34f5a282-dc88-4511-aff9-b706f1b35f85" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_jiban1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_jiban2.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_wujiang1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_wujiang2.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_pugong.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_wenzi1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_wenzi2.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_wenzi3.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_wenzi4.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_wenzi5.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_xinxi.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_jinjie1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_jinjie2.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_shengji1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_shengji2.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_huoqu_btn_jinjie.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_huoqu_btn_qianwang.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_huoqu_btn_shengji.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_huoqu_btn_yijianshengji.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_jiesuotianfu.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_xinxi1.png" />
+      <FilePathData Path="ui/wujiang/ui_wujiang_btn_xinxi2.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

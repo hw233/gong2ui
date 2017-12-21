@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="task_language" Type="Plist" ID="3236cb85-54be-498d-8c67-3cb4dd74396b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/tasklayer/ui_renwu_biaoti.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_lingqu.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_qianwang.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_btn_yilingqu.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_wenzi1.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_wenzi2.png" />
+      <FilePathData Path="ui/tasklayer/ui_renwu_wenzi3.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,72 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="com_plist" Type="Plist" ID="ff8849ed-af28-4a0c-94d7-e6600e8c4c5c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/com/ui_com_jiazai02.png" />
+      <FilePathData Path="ui/com/ui_com_tbgezid.png" />
+      <FilePathData Path="ui/com/ui_com_jiazai01.png" />
+      <FilePathData Path="ui/com/ui_com_tishidi.png" />
+      <FilePathData Path="ui/com/ui_com_space.png" />
+      <FilePathData Path="ui/com/ui_com_bigtongyong03.png" />
+      <FilePathData Path="ui/com/ui_com_VIP.png" />
+      <FilePathData Path="ui/com/ui_com_btn_selected1.png" />
+      <FilePathData Path="ui/com/ui_com_btn_unselected1.png" />
+      <FilePathData Path="ui/com/ui_com_close1.png" />
+      <FilePathData Path="ui/com/ui_com_di1.png" />
+      <FilePathData Path="ui/com/ui_com_di2.png" />
+      <FilePathData Path="ui/com/ui_com_back.png" />
+      <FilePathData Path="ui/com/ui_com_bt2.png" />
+      <FilePathData Path="ui/com/ui_com_bt3.png" />
+      <FilePathData Path="ui/com/ui_com_bt4.png" />
+      <FilePathData Path="ui/com/ui_com_btn1.png" />
+      <FilePathData Path="ui/com/ui_com_close2.png" />
+      <FilePathData Path="ui/com/ui_com_di3.png" />
+      <FilePathData Path="ui/com/ui_com_di4.png" />
+      <FilePathData Path="ui/com/ui_com_di5.png" />
+      <FilePathData Path="ui/com/ui_com_di6.png" />
+      <FilePathData Path="ui/com/ui_com_di7.png" />
+      <FilePathData Path="ui/com/ui_com_di8.png" />
+      <FilePathData Path="ui/com/ui_com_gezi0.png" />
+      <FilePathData Path="ui/com/ui_com_gezi0_2.png" />
+      <FilePathData Path="ui/com/ui_com_gezi2.png" />
+      <FilePathData Path="ui/com/ui_com_gezi2_2.png" />
+      <FilePathData Path="ui/com/ui_com_gezi3.png" />
+      <FilePathData Path="ui/com/ui_com_gezi3_2.png" />
+      <FilePathData Path="ui/com/ui_com_gezi4.png" />
+      <FilePathData Path="ui/com/ui_com_gezi4_2.png" />
+      <FilePathData Path="ui/com/ui_com_gezi1.png" />
+      <FilePathData Path="ui/com/ui_com_gezi1_2.png" />
+      <FilePathData Path="ui/com/ui_com_gezi5.png" />
+      <FilePathData Path="ui/com/ui_com_kuang1.png" />
+      <FilePathData Path="ui/com/ui_com_kuang2.png" />
+      <FilePathData Path="ui/com/ui_com_line1.png" />
+      <FilePathData Path="ui/com/ui_com_line2.png" />
+      <FilePathData Path="ui/com/ui_com_wenhao.png" />
+      <FilePathData Path="ui/com/ui_com_xuanzhong.png" />
+      <FilePathData Path="ui/com/ui_com_zhuangshi1.png" />
+      <FilePathData Path="ui/com/ui_com_zhuangshi2.png" />
+      <FilePathData Path="ui/com/ui_com_zhuangshi3.png" />
+      <FilePathData Path="ui/com/ui_com_zhuangshi4.png" />
+      <FilePathData Path="ui/com/ui_com_zhuangshi5.png" />
+      <FilePathData Path="ui/com/ui_com_tip.png" />
+      <FilePathData Path="ui/com/ui_com_di9.png" />
+      <FilePathData Path="ui/com/ui_com_btn_selected2.png" />
+      <FilePathData Path="ui/com/ui_com_btn_unselected2.png" />
+      <FilePathData Path="ui/com/ui_com_tishidi2.png" />
+      <FilePathData Path="ui/com/ui_com_tishidi3.png" />
+      <FilePathData Path="ui/com/ui_com_gezi6.png" />
+      <FilePathData Path="ui/com/ui_com_gezi7.png" />
+      <FilePathData Path="ui/com/ui_com_huoyuedu.png" />
+      <FilePathData Path="ui/com/ui_com_ditu.png" />
+      <FilePathData Path="ui/com/ui_com_exp.png" />
+      <FilePathData Path="ui/com/ui_com_chengjiudian.png" />
+      <FilePathData Path="ui/com/ui_com_yinliang.png" />
+      <FilePathData Path="ui/com/ui_com_yuanbao.png" />
+      <FilePathData Path="ui/com/ui_com_gezi8.png" />
+      <FilePathData Path="ui/com/ui_com_gezi8_2.png" />
+      <FilePathData Path="ui/com/ui_com_tishidi4.png" />
+      <FilePathData Path="ui/com/ui_com_icon.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

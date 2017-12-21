@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bag_layer" Type="Plist" ID="2c43de3d-5d76-4deb-b103-700e0b05dc3f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/baglayer/ui_bag_di1.png" />
+      <FilePathData Path="ui/baglayer/ui_bag_di2.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="128" />
+  </Content>
+</PlistInfoProjectFile>

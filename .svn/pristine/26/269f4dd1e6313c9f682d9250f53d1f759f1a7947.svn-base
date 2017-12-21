@@ -1,0 +1,222 @@
+<GameFile>
+  <PropertyGroup Name="base_top_layer" Type="Layer" ID="a1b39d4a-f168-47c5-96f7-765fd335b4e0" Version="3.10.0.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" Tag="291" ctype="GameLayerObjectData">
+        <Size X="1136.0000" Y="640.0000" />
+        <Children>
+          <AbstractNodeData Name="Image_top_bg" ActionTag="-1904029219" Tag="292" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="TopEdge" TopMargin="0.0002" BottomMargin="579.9678" StretchWidthEnable="True" LeftEage="68" RightEage="68" TopEage="12" BottomEage="12" Scale9OriginX="68" Scale9OriginY="12" Scale9Width="1000" Scale9Height="41" ctype="ImageViewObjectData">
+            <Size X="1136.0000" Y="60.0320" />
+            <Children>
+              <AbstractNodeData Name="Button_quit" ActionTag="2093367482" CallBackType="Touch" CallBackName="QuitTouch" Tag="293" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BothEdge" LeftMargin="0.5000" RightMargin="1036.5000" TopMargin="-2.9821" BottomMargin="5.0141" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="69" Scale9Height="36" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="99.0000" Y="58.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="50.0000" Y="34.0141" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.0440" Y="0.5666" />
+                <PreSize X="0.0871" Y="0.9662" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="MarkedSubImage" Path="ui/com/ui_com_back.png" Plist="ui/com/com_plist.plist" />
+                <PressedFileData Type="MarkedSubImage" Path="ui/com/ui_com_back.png" Plist="ui/com/com_plist.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="ui/com/ui_com_back.png" Plist="ui/com/com_plist.plist" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_top_bg" ActionTag="1685822268" Tag="294" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BothEdge" LeftMargin="474.0064" RightMargin="3.0000" TopMargin="3.9981" BottomMargin="6.0339" StretchWidthEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                <Size X="658.9936" Y="50.0000" />
+                <Children>
+                  <AbstractNodeData Name="Image_1" ActionTag="243447745" CallBackType="Click" CallBackName="AddTili" Tag="295" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BothEdge" LeftMargin="-33.3759" RightMargin="547.3695" TopMargin="11.0000" BottomMargin="14.0000" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="13" TopEage="8" BottomEage="8" Scale9OriginX="13" Scale9OriginY="8" Scale9Width="16" Scale9Height="10" ctype="ImageViewObjectData">
+                    <Size X="145.0000" Y="25.0000" />
+                    <Children>
+                      <AbstractNodeData Name="btn_6_1" ActionTag="1582451648" CallBackType="Touch" CallBackName="AddTili" Tag="296" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="127.0000" RightMargin="-18.0000" TopMargin="-5.8475" BottomMargin="-3.1525" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="12" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="36.0000" Y="34.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="145.0000" Y="13.8475" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="1.0000" Y="0.5539" />
+                        <PreSize X="0.2483" Y="1.3600" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <DisabledFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <PressedFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <NormalFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Text_1" ActionTag="-420976196" Tag="297" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="108.2500" RightMargin="21.7500" TopMargin="1.5000" BottomMargin="1.5000" FontSize="18" LabelText="0" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="15.0000" Y="22.0000" />
+                        <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+                        <Position X="123.2500" Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="59" G="175" B="122" />
+                        <PrePosition X="0.8500" Y="0.5000" />
+                        <PreSize X="0.1034" Y="0.8800" />
+                        <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Image_1" ActionTag="1315039751" Tag="298" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-23.0000" RightMargin="122.0000" TopMargin="-4.5000" BottomMargin="-4.5000" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="16" Scale9Height="12" ctype="ImageViewObjectData">
+                        <Size X="46.0000" Y="34.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition Y="0.5000" />
+                        <PreSize X="0.3172" Y="1.3600" />
+                        <FileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_ti.png" Plist="ui/zhujiemian/zhujiemian_language.plist" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="39.1241" Y="26.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.0594" Y="0.5300" />
+                    <PreSize X="0.2200" Y="0.5000" />
+                    <FileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_ditu2.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Image_2" ActionTag="350725810" CallBackType="Click" CallBackName="AddYuanbao" Tag="299" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="214.9530" RightMargin="299.0406" TopMargin="11.0000" BottomMargin="14.0000" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="13" TopEage="8" BottomEage="8" Scale9OriginX="13" Scale9OriginY="8" Scale9Width="16" Scale9Height="10" ctype="ImageViewObjectData">
+                    <Size X="145.0000" Y="25.0000" />
+                    <Children>
+                      <AbstractNodeData Name="btn_6_2" ActionTag="-2097621004" CallBackType="Touch" CallBackName="AddYuanbao" Tag="300" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="127.0000" RightMargin="-18.0000" TopMargin="-4.5000" BottomMargin="-4.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="12" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="36.0000" Y="34.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="145.0000" Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="1.0000" Y="0.5000" />
+                        <PreSize X="0.2483" Y="1.3600" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <DisabledFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <PressedFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <NormalFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Text_gold" ActionTag="-65811449" Tag="301" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="108.2500" RightMargin="21.7500" TopMargin="1.5000" BottomMargin="1.5000" FontSize="18" LabelText="0" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="15.0000" Y="22.0000" />
+                        <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+                        <Position X="123.2500" Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="59" G="175" B="122" />
+                        <PrePosition X="0.8500" Y="0.5000" />
+                        <PreSize X="0.1034" Y="0.8800" />
+                        <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Image_2" ActionTag="1145634446" Tag="302" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-25.0000" RightMargin="120.0000" TopMargin="-12.5000" BottomMargin="-12.5000" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" ctype="ImageViewObjectData">
+                        <Size X="50.0000" Y="50.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition Y="0.5000" />
+                        <PreSize X="0.3448" Y="2.0000" />
+                        <FileData Type="MarkedSubImage" Path="ui/com/ui_com_yuanbao.png" Plist="ui/com/com_plist.plist" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="287.4530" Y="26.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4362" Y="0.5300" />
+                    <PreSize X="0.2200" Y="0.5000" />
+                    <FileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_ditu2.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Image_3" ActionTag="588911870" CallBackType="Click" CallBackName="AddYinliang" Tag="303" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BothEdge" LeftMargin="463.2909" RightMargin="50.7027" TopMargin="11.0000" BottomMargin="14.0000" TouchEnable="True" Scale9Enable="True" LeftEage="13" RightEage="13" TopEage="8" BottomEage="8" Scale9OriginX="13" Scale9OriginY="8" Scale9Width="16" Scale9Height="10" ctype="ImageViewObjectData">
+                    <Size X="145.0000" Y="25.0000" />
+                    <Children>
+                      <AbstractNodeData Name="btn_6_3" ActionTag="1233787982" CallBackType="Touch" CallBackName="AddYinliang" Tag="304" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="127.0000" RightMargin="-18.0000" TopMargin="-4.5000" BottomMargin="-4.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="12" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="36.0000" Y="34.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="145.0000" Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="1.0000" Y="0.5000" />
+                        <PreSize X="0.2483" Y="1.3600" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <DisabledFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <PressedFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <NormalFileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_btn_add.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Text_yingliang" ActionTag="-1311123745" Tag="305" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="108.2500" RightMargin="21.7500" TopMargin="1.5000" BottomMargin="1.5000" FontSize="18" LabelText="0" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="15.0000" Y="22.0000" />
+                        <AnchorPoint ScaleX="1.0000" ScaleY="0.5000" />
+                        <Position X="123.2500" Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="59" G="175" B="122" />
+                        <PrePosition X="0.8500" Y="0.5000" />
+                        <PreSize X="0.1034" Y="0.8800" />
+                        <FontResource Type="Normal" Path="fonts/fzzz.TTF" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Image_3" ActionTag="-1485859781" Tag="306" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-25.0000" RightMargin="120.0000" TopMargin="-12.5000" BottomMargin="-12.5000" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="20" Scale9Height="28" ctype="ImageViewObjectData">
+                        <Size X="50.0000" Y="50.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position Y="12.5000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition Y="0.5000" />
+                        <PreSize X="0.3448" Y="2.0000" />
+                        <FileData Type="MarkedSubImage" Path="ui/com/ui_com_yinliang.png" Plist="ui/com/com_plist.plist" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="535.7909" Y="26.5000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.8130" Y="0.5300" />
+                    <PreSize X="0.2200" Y="0.5000" />
+                    <FileData Type="MarkedSubImage" Path="ui/zhujiemian/ui_zhujiemian_ditu2.png" Plist="ui/zhujiemian/zhujiemian_plist.plist" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="1133.0000" Y="56.0339" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9974" Y="0.9334" />
+                <PreSize X="0.5801" Y="0.8329" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_title" ActionTag="-225739796" Tag="307" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BothEdge" LeftMargin="180.5000" RightMargin="826.5000" TopMargin="9.5316" BottomMargin="18.5004" LeftEage="42" RightEage="42" TopEage="10" BottomEage="10" Scale9OriginX="42" Scale9OriginY="10" Scale9Width="45" Scale9Height="12" ctype="ImageViewObjectData">
+                <Size X="129.0000" Y="32.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="245.0000" Y="34.5004" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2157" Y="0.5747" />
+                <PreSize X="0.1136" Y="0.5330" />
+                <FileData Type="MarkedSubImage" Path="ui/role_info/ui_juesexinxi_biaoti.png" Plist="ui/role_info/role_info_language.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_wenhao" ActionTag="235530944" CallBackType="Touch" CallBackName="questiontouch" Tag="51" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BothEdge" LeftMargin="327.0000" RightMargin="763.0000" TopMargin="4.0324" BottomMargin="9.9996" TouchEnable="True" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+                <Size X="46.0000" Y="46.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="350.0000" Y="32.9996" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3081" Y="0.5497" />
+                <PreSize X="0.0405" Y="0.7663" />
+                <FileData Type="MarkedSubImage" Path="ui/com/ui_com_wenhao.png" Plist="ui/com/com_plist.plist" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+            <Position X="568.0000" Y="639.9998" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="1.0000" />
+            <PreSize X="1.0000" Y="0.0938" />
+            <FileData Type="MarkedSubImage" Path="ui/baglayer/ui_bag_di2.png" Plist="ui/baglayer/bag_layer.plist" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

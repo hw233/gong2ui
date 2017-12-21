@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fight" Type="Plist" ID="fb02ddcd-a993-4ded-88b5-d5ebdeea531c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/fight/ui_zhandou_btn_jiasu.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_btn_jiasu2.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_btn_jiasu3.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_btn_tiaoguo.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_di1.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_jdt1.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_jdtdi.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_nuqi.png" />
+      <FilePathData Path="ui/fight/ui_zhandou_yingzi.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="com_plist" Type="Plist" ID="ff8849ed-af28-4a0c-94d7-e6600e8c4c5c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/com/ui_com_jiazai02.png" />
+      <FilePathData Path="ui/com/ui_com_tbgezid.png" />
+      <FilePathData Path="ui/com/ui_com_jiazai01.png" />
+      <FilePathData Path="ui/com/ui_com_tishidi.png" />
+      <FilePathData Path="ui/com/ui_com_space.png" />
+      <FilePathData Path="ui/com/ui_com_bigtongyong03.png" />
+      <FilePathData Path="ui/com/ui_com_VIP.png" />
+      <FilePathData Path="ui/com/ui_com_btn_selected1.png" />
+      <FilePathData Path="ui/com/ui_com_btn_unselected1.png" />
+      <FilePathData Path="ui/com/ui_com_close1.png" />
+      <FilePathData Path="ui/com/ui_com_di1.png" />
+      <FilePathData Path="ui/com/ui_com_di2.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="256" />
+  </Content>
+</PlistInfoProjectFile>
